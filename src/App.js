@@ -91,7 +91,7 @@ function App() {
       <footer className="fadeInUp" style={{animationDelay: '2s'}}>
         {/* <img
           src="/icon.png"
-          alt="https://www.covid19india.org | Coronavirus cases live dashboard"
+          alt="https://www.covid19india.org | Coronavirus cases live dashboard By SRMU"
         />*/}
 
         <h5>We stand with everyone fighting on the frontlines</h5>
@@ -101,17 +101,17 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            covid19india
+            covid19india | SRMU
           </a>
         </div>
         <a
-          href="https://github.com/covid19india/covid19india-react"
+          href="https://github.com/gupta199862/covid19india-react"
           className="button github"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Icon.GitHub />
-          <span>Open Sourced on GitHub</span>
+          <span>Follow me on GitHub</span>
         </a>
         <a
           className="button excel"
