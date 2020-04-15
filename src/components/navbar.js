@@ -24,7 +24,7 @@ function Navbar(props) {
         <Link to="/">
           <img
             className="fadeInUp logo"
-            alt="India COVID-19 Tracker"
+            alt="India COVID-19 Tracker|By SRMU"
             src="/icon.png"
             style={{
               animationDelay: '0.0s',
